@@ -3,8 +3,8 @@
 [iOS多线程详解](http://www.imlifengfeng.com/blog/?p=533)  
 [使用GCD](https://blog.devtang.com/2012/02/22/use-gcd/)  
 [iOS 並行程式設計: 初探 NSOperation 和 Dispatch Queues](https://www.appcoda.com.tw/ios-concurrency/)  
-[iOS多线程：GCD详解](https://juejin.im/post/6844904093488513037#heading-0)
-
+[iOS多线程：GCD详解](https://juejin.im/post/6844904093488513037#heading-0)  
+[iOS多线程之GCD详解](https://juejin.im/post/6844903529522397198#heading-13)
 
 为什么要使用多线程？  
 充分利用现有的资源（CPU），提升App的运行性能，保证App实时响应用户操作。  
