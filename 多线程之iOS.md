@@ -2,7 +2,7 @@
 [iOS多线程编程总结](https://bestswifter.com/multithreadconclusion/)  
 [iOS多线程详解](http://www.imlifengfeng.com/blog/?p=533)  
 [使用GCD](https://blog.devtang.com/2012/02/22/use-gcd/)  
-[iOS 並行程式設計: 初探 NSOperation 和 Dispatch Queues](https://www.appcoda.com.tw/ios-concurrency/)
+[iOS 並行程式設計: 初探 NSOperation 和 Dispatch Queues](https://www.appcoda.com.tw/ios-concurrency/)  
 [iOS多线程：GCD详解](https://juejin.im/post/6844904093488513037#heading-0)
 
 
