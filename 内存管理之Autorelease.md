@@ -5,7 +5,9 @@ autorelease的工作原理
 -----
 
 参考资料：  
-[黑幕背后的Autorelease](https://blog.sunnyxx.com/2014/10/15/behind-autorelease/)
+[黑幕背后的Autorelease](https://blog.sunnyxx.com/2014/10/15/behind-autorelease/)  
+[iOS -- Autorelease & AutoreleasePool](https://juejin.im/post/6844903971405086734#heading-6)  
+
 
 #### autorelease对象什么时候释放
 
